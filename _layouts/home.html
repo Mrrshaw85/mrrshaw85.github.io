@@ -24,6 +24,7 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        {%- include disqus_comments.html -%}
       </li>
       {%- endfor -%}
     </ul>

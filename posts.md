@@ -2,9 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: home
+title: Blog
+permalink: /blogposts/
+comments: true
 ---
 
-## This is my page - Welcome!
-
-*The science of today is the technology of tomorrow* - Edward Teller
+Here's all my blogposts!
