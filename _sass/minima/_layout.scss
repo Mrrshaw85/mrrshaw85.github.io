@@ -4,7 +4,9 @@
 .site-header {
   border-top: 5px solid $border-light;
   border-bottom: 1px solid $border-light;
-  background-color: #bee5bf;
+  background: #1f4037; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1f4037, #99f2c8); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1f4037, #99f2c8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -13,15 +15,18 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
+  font-weight: 600;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
 
   &,
+  &:active,
+  &:hover,
   &:visited {
-    color: $grey-color-dark;
+    color: $title-color;
+    text-decoration: none;
   }
 }
 
@@ -38,12 +43,20 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $nav-link-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
+    }
+
+    & {
+      text-decoration: none;
+    }
+
+    &:hover {
+      color: $nav-hover-color;
     }
   }
 
@@ -109,7 +122,7 @@
 .site-footer {
   border-top: 1px solid $border-dark;
   padding: $spacing-unit 0;
-  background-color: #ffd1ba;
+  background-color: #eaeaea;
 }
 
 .footer-heading {
@@ -180,6 +193,9 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  background: #ada996; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #ada996, #f2f2f2, #dbdbdb, #eaeaea); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #ada996, #f2f2f2, #dbdbdb, #eaeaea); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .page-heading {

@@ -1,0 +1,57 @@
+ 
+                        
+
+
+                                
+    /* TEAM */
+
+                                
+    Your title: Thimmy S
+
+                                
+    Site: ts222ub@student.lnu.se
+
+                                
+    Twitter: @Mrrshaw
+
+                                
+    Location: Skellefteå, Sweden
+                             
+
+                 
+                        [...]
+						
+
+
+    							
+    /* THANKS */
+
+    							
+    Name: LNU, My beautiful wife, My parents
+
+    						
+
+                 
+                        [...]
+                        
+
+
+                                
+    /* SITE */
+
+                                
+    Last update: 2018/11/19 
+
+                                
+    Standards: HTML5, CSS3,
+
+                                
+    Components: Jekyll, SCSS
+
+                                
+    Software: Visual Studio Code, Docker, Jekyll, Spotify ;)
+       
+                            
+
+
+                    
