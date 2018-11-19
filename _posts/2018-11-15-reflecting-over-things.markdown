@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflecting over things"
-date:   2018-11-15 10:08:34 +0100
+date:   2018-11-17 10:08:34 +0100
 categories: tech reflections
 ---
 

@@ -19,3 +19,7 @@ The rent was about to go up three-fold and so I decided to find work elsewhere. 
 ### New horizons
 
 A callback from a previous work application (about 8 months afterwards...) made it so that I ended up where I am today - a software developer and test engineer at a large multinational company. Every day there's something new to learn and something old to fix, but it's how I like it. Combine that with a beautiful wife, two bonuskids every other week and studying at full speed - my life is hectic, sometimes hard, but I wouldn´t have it any other way. 
+
+### Interests
+
+A small notice: I wanted to add my interests, and as you can see one of them is coding. Apart from that, I spend a lot of time with my family, doing some crazy home improvement scheme or just playing some casual game in the moonlight (Red Dead Redemption 2 has filled my non-existing free time lately.). At summer I can be found fishing or throwing plastic discs in baskets (discgolf). Wintertime I'm usually just at work or at home - snow is not a favorite of mine and by default, seeing where I live, it's not optimal for a person like me. We get a loooot of snow. Sigh..
