@@ -1,5 +1,4 @@
 ---
-title: Welcome to Shaw’s Tech Blog
 layout: default
 exclude: true
 ---
