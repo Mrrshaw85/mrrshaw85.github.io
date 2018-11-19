@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
@@ -17,3 +14,5 @@ So, this is the beginning of my tech blog. There will be regular blogposts in th
 you can read all about me in the "About" page and see what I'm up to in the "Projects" section.
 
 I wish you a grand day and remember - the first line of code is always the hardest. Cya!
+
+![alt text](https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260 "Coding Setup Deluxe")
